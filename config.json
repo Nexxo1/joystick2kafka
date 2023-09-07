@@ -1,0 +1,6 @@
+{
+    "kafkaIp" : "localhost",
+    "kafkaPort" : 9094,
+    "kafkaTopic" : "joystick-event",
+    "joystick" : "/dev/input/js0"
+}
